@@ -6,7 +6,7 @@ In order to detect the similarities between two corpus of text we first calculat
 sum of ngram counts. 
 The formula for calculating the containment is following:
 
-$$ \frac{\sum{count(\text{ngram}_{A}) \cap count(\text{ngram}_{S})}}{\sum{count(\text{ngram}_{A})}} $$
+ $$  \frac{\sum{count(\text{ngram}_{A}) \cap count(\text{ngram}_{S})}}{\sum{count(\text{ngram}_{A})}} $$
 
 ### Calculating the Longest Common Subsequence:
 
@@ -16,6 +16,6 @@ We calculate the Longest Common Subsequence between two corpus of text using **D
 
 ```
 cd SageMaker
-git clone https://github.com/swastiknath/pyt_SM_plg_det
+git clone https://github.com/swastiknath/pyt_SM_plg_det.git
 ```
 Now Open the Jupyter Notebooks. 
