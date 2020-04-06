@@ -6,7 +6,7 @@ In order to detect the similarities between two corpus of text we first calculat
 sum of ngram counts. 
 The formula for calculating the containment is following:
 
- $$  \frac{\sum{count(\text{ngram}_{A}) \cap count(\text{ngram}_{S})}}{\sum{count(\text{ngram}_{A})}} $$
+![Calculating Containments](https://raw.github.com/username/repo/master/images/figure 1-1.png "Figure 1-1")
 
 ### Calculating the Longest Common Subsequence:
 
