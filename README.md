@@ -1,5 +1,8 @@
 ## Detecting Similarities Between Copora of Text: 
 
+The research paper which is followed here can be found here: 
+[Research Paper by Paul Clough and Mark Stevenson ](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c412841_developing-a-corpus-of-plagiarised-short-answers/developing-a-corpus-of-plagiarised-short-answers.pdf "Research Paper"). Data and Notebooks are in courtesy of [Udacity](https://udacity.com)
+
 ### Calculating the Containment : 
 
 In order to detect the similarities between two corpus of text we first calculate the ngrams for both of the sentences and then find the normalized 
