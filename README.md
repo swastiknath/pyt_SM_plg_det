@@ -6,7 +6,7 @@ In order to detect the similarities between two corpus of text we first calculat
 sum of ngram counts. 
 The formula for calculating the containment is following:
 
-![Calculating Containments](https://raw.github.com/username/repo/master/images/figure 1-1.png "Figure 1-1")
+![Calculating Containments](https://github.com/swastiknath/pyt_SM_plg_det/raw/master/containment_calc.jpg "Containment Calculation")
 
 ### Calculating the Longest Common Subsequence:
 
