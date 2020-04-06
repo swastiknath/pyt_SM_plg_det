@@ -20,7 +20,7 @@ We calculate the Longest Common Subsequence between two corpus of text using **D
 
 ```
 cd SageMaker
-https://github.com/swastiknath/pyt_SM_plg_det.git
+git clone https://github.com/swastiknath/pyt_SM_plg_det.git
 ```
 ## To Execute into the Python shell 
 ```
